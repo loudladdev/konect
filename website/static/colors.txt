@@ -1,0 +1,7 @@
+dartmouth greewn: #01600A
+
+timberwolf: #DDD5D0
+silver: #CFC0DB
+
+ash grey: #B8B8AA
+gun metal: #223843
